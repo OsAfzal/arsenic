@@ -1,8 +1,3 @@
-Projection    GEOGRAPHIC                                                        
-Datum         WGS84                                                             
-Zunits        NO                                                                
-Units         DD                                                                
-Spheroid      WGS84                                                             
-Xshift        0.0000000000                                                      
-Yshift        0.0000000000                                                      
-Parameters                                                                      
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ab57bb41458719589babe87f6eebdf2a201a3817465ff54a824f76b2a9279ea
+size 656
